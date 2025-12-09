@@ -5,6 +5,5 @@ passlib[bcrypt]
 python-jose[cryptography]
 python-multipart
 alembic
-
-
-bcrypt==3.2.2
+pydantic_settings
+bcrypt
